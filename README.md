@@ -18,15 +18,15 @@ sysopctl is a powerful, custom Bash utility created to streamline and automate c
 
 To use **sysopctl**, clone the repository and follow the installation instructions:
 **1.Clone the Repository:**
-```bash
-git clone <repository-url>
+
+git clone <repository-url> ```bash
 
 **2.Make the Script Executable:**
-```bash
+
 cd sysopctl
 
 **3.(Optional) Move the Script to a Directory in Your PATH: This allows you to run sysopctl from anywhere in your terminal.**
-```bash
+
 chmod +x sysopctl.sh
 
 
