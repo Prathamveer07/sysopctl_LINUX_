@@ -1,5 +1,5 @@
-# sysopctl- System Operation Command
-ysopctl is a powerful, custom Bash utility created to streamline and automate common system administration tasks on Linux systems. This tool empowers system administrators to efficiently manage services, monitor system health, analyze logs, and perform backups — all through a simple command-line interface. With its range of features, sysopctl is designed to save time and improve the ease of managing system resources, from process monitoring to disk usage and service control.
+# sysopctl- System Management Operation Command
+sysopctl is a powerful, custom Bash utility created to streamline and automate common system administration tasks on Linux systems. This tool empowers system administrators to efficiently manage services, monitor system health, analyze logs, and perform backups — all through a simple command-line interface. With its range of features, sysopctl is designed to save time and improve the ease of managing system resources, from process monitoring to disk usage and service control.
 
 # Features
 -**System Management Operations:**
