@@ -52,13 +52,16 @@ View version information with --version.
 ### Advanced Operations
 - `sysopctl process monitor`: Monitors real-time process activity.
   
-- ![image](https://github.com/user-attachments/assets/04340d4c-f07b-46cf-a57a-d898886e6a68)
+ ![image](https://github.com/user-attachments/assets/04340d4c-f07b-46cf-a57a-d898886e6a68)
 
 - `sysopctl logs analyze`: Analyzes recent critical log entries.
   
-- ![image](https://github.com/user-attachments/assets/f545c5fa-6ff9-4b5a-8209-0ce9cd6ce470)
+ ![image](https://github.com/user-attachments/assets/f545c5fa-6ff9-4b5a-8209-0ce9cd6ce470)
 
 - `sysopctl backup <path>`: Backs up specified system files.
+
+  ![image](https://github.com/user-attachments/assets/f17cba04-350b-471e-994f-d7ccbcc90b16)
+
  
 ## Installation
 
