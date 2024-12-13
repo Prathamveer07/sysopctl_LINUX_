@@ -18,27 +18,27 @@ View version information with --version.
 
 ### Basic Usage
 - `sysopctl --help`: Displays help and usage information.
-- ![image](https://github.com/user-attachments/assets/060c1bb4-f803-43ce-baf5-d0cc633093cf)
+ ![image](https://github.com/user-attachments/assets/060c1bb4-f803-43ce-baf5-d0cc633093cf)
 
 - `sysopctl --version`: Displays the version of sysopctl.
-- ![image](https://github.com/user-attachments/assets/178f81a0-4645-4866-909d-a6f0a3bd61e9)
+ ![image](https://github.com/user-attachments/assets/178f81a0-4645-4866-909d-a6f0a3bd61e9)
 
 ### Service Management
 - `sysopctl service list`: Lists all active services.
-- ![image](https://github.com/user-attachments/assets/3ffe2a59-dce5-4540-9550-4666829c217a)
+ ![image](https://github.com/user-attachments/assets/3ffe2a59-dce5-4540-9550-4666829c217a)
 
 - `sysopctl service start <service-name>`: Starts a specified service.
-- ![image](https://github.com/user-attachments/assets/47d2dd82-57bf-4898-b1ca-76b60c7e3803)
+ ![image](https://github.com/user-attachments/assets/47d2dd82-57bf-4898-b1ca-76b60c7e3803)
 
 - `sysopctl service stop <service-name>`: Stops a specified service.
-- ![image](https://github.com/user-attachments/assets/f80217f0-b05c-407f-bb22-a82e695075b9)
+ ![image](https://github.com/user-attachments/assets/f80217f0-b05c-407f-bb22-a82e695075b9)
 
 
 ### System Monitoring
 - `sysopctl system load`: Displays current system load averages.
 - 
 - `sysopctl disk usage`: Displays disk usage statistics.
-- ![image](https://github.com/user-attachments/assets/b14fd1b6-884a-4d3e-9297-8ebd4672ebc7)
+ ![image](https://github.com/user-attachments/assets/b14fd1b6-884a-4d3e-9297-8ebd4672ebc7)
 
 
 ### Advanced Operations
