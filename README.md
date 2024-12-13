@@ -4,15 +4,15 @@ sysopctl is a powerful, custom Bash utility created to streamline and automate c
 # Features
 **System Management Operations:**
 - List, start, and stop system services.
--View system load averages.
--Check disk usage statistics.
--Monitor real-time process activity.
--Analyze system logs for critical entries.
--Backup system files with rsync.
+- View system load averages.
+- Check disk usage statistics.
+- Monitor real-time process activity.
+- Analyze system logs for critical entries.
+- Backup system files with rsync.
 
 -**Help and Documentation:**
--Access comprehensive usage documentation via the --help flag.
--View version information with --version.
+- Access comprehensive usage documentation via the --help flag.
+- View version information with --version.
 
 # Commands
 
