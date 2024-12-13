@@ -17,7 +17,8 @@ sysopctl is a powerful, custom Bash utility created to streamline and automate c
 ## Installation
 
 To use **sysopctl**, clone the repository and follow the installation instructions:
-**1.Clone the Repository:**
+
+-**1.Clone the Repository:**
 
 git clone <repository-url> 
 
