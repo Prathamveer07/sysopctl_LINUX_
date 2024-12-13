@@ -2,8 +2,8 @@
 sysopctl is a powerful, custom Bash utility created to streamline and automate common system administration tasks on Linux systems. This tool empowers system administrators to efficiently manage services, monitor system health, analyze logs, and perform backups — all through a simple command-line interface. With its range of features, sysopctl is designed to save time and improve the ease of managing system resources, from process monitoring to disk usage and service control.
 
 # Features
--**System Management Operations:**
--List, start, and stop system services.
+**System Management Operations:**
+- List, start, and stop system services.
 -View system load averages.
 -Check disk usage statistics.
 -Monitor real-time process activity.
