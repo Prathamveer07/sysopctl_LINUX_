@@ -10,7 +10,7 @@ sysopctl is a powerful, custom Bash utility created to streamline and automate c
 - Analyze system logs for critical entries.
 - Backup system files with rsync.
 
--**Help and Documentation:**
+**Help and Documentation:**
 - Access comprehensive usage documentation via the --help flag.
 - View version information with --version.
 
