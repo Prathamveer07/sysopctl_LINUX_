@@ -18,6 +18,8 @@ View version information with --version.
 
 ### Basic Usage
 - `sysopctl --help`: Displays help and usage information.
+- ![image](https://github.com/user-attachments/assets/060c1bb4-f803-43ce-baf5-d0cc633093cf)
+
 - `sysopctl --version`: Displays the version of sysopctl.
 
 ### Service Management
