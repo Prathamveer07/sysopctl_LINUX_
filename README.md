@@ -14,6 +14,22 @@ sysopctl is a powerful, custom Bash utility created to streamline and automate c
 - Access comprehensive usage documentation via the --help flag.
 - View version information with --version.
 
+## Installation
+
+To use **sysopctl**, clone the repository and follow the installation instructions:
+**1.Clone the Repository:**
+```bash
+git clone <repository-url>
+
+**2.Make the Script Executable:**
+```bash
+cd sysopctl
+
+**3.(Optional) Move the Script to a Directory in Your PATH: This allows you to run sysopctl from anywhere in your terminal.**
+```bash
+chmod +x sysopctl.sh
+
+
 # Commands
 
 ### Basic Usage
@@ -63,11 +79,4 @@ sysopctl is a powerful, custom Bash utility created to streamline and automate c
  ![image](https://github.com/user-attachments/assets/f17cba04-350b-471e-994f-d7ccbcc90b16)
 
  
-## Installation
 
-To use **sysopctl**, clone the repository and follow the installation instructions:
-
-```bash
-git clone <repository-url>
-cd sysopctl
-chmod +x sysopctl.sh
