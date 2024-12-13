@@ -1,0 +1,22 @@
+.TH sysopctl 1 "July 2024" "v0.1.0" "System Operations"
+.SH NAME
+sysopctl \- A command-line tool for system operations
+.SH SYNOPSIS
+sysopctl [option] [arguments]
+.SH DESCRIPTION
+This command is used for managing system services, processes, and health.
+.SH OPTIONS
+--help                 Show help message
+--version              Show command version
+service list           List running services
+system load            Show system load averages
+service start <name>   Start a service
+service stop <name>    Stop a service
+disk usage             Show disk usage
+process monitor        Monitor system processes
+logs analyze           Analyze system logs
+backup <path>          Backup system files
+.SH EXAMPLES
+sysopctl service list
+sysopctl system load
+sysopctl service start apache2
