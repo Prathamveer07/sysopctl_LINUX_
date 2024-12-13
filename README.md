@@ -42,11 +42,11 @@ View version information with --version.
 ### System Monitoring
 - `sysopctl system load`: Displays current system load averages.
 
-  ![image](https://github.com/user-attachments/assets/907faf7b-25a7-44fd-bf30-a4eda72692f0)
+![image](https://github.com/user-attachments/assets/907faf7b-25a7-44fd-bf30-a4eda72692f0)
 
 - `sysopctl disk usage`: Displays disk usage statistics.
   
- ![image](https://github.com/user-attachments/assets/b14fd1b6-884a-4d3e-9297-8ebd4672ebc7)
+![image](https://github.com/user-attachments/assets/b14fd1b6-884a-4d3e-9297-8ebd4672ebc7)
 
 
 ### Advanced Operations
@@ -60,7 +60,7 @@ View version information with --version.
 
 - `sysopctl backup <path>`: Backs up specified system files.
 
-  ![image](https://github.com/user-attachments/assets/f17cba04-350b-471e-994f-d7ccbcc90b16)
+ ![image](https://github.com/user-attachments/assets/f17cba04-350b-471e-994f-d7ccbcc90b16)
 
  
 ## Installation
